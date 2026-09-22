@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**dawooddk15/dawooddk15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dawooddk15/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
